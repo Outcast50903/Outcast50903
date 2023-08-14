@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=outcast50903" alt="outcast50903" /></a> </p>
 
-- 🚀 I'm currently working on **RokketLabs**
+- 🚀 I'm currently working on **Drimo**
 
 - 🌱 I’m currently learning **Serverless Stack, Next.js, AWS**
 
